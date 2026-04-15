@@ -1,0 +1,1 @@
+import{I as e,d as t,m as n,t as r}from"./_plugin-vue_export-helper-D6x_eByX.js";var i={},a={class:`not-found`};function o(r,i){return e(),n(`div`,a,[...i[0]||=[t(`h1`,null,`404 Not Found`,-1),t(`p`,{style:{"text-align":`center`,"font-size":`50px`}},`山川提醒您，迷路了哦`,-1)]])}var s=r(i,[[`render`,o]]);export{s as default};
